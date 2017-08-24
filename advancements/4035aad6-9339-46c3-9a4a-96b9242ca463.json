@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2017-08-03 00:22:47 +0430"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2017-07-07 01:39:45 +0430"
@@ -44,6 +50,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_red_flower": "2017-07-12 10:33:06 +0430"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2017-08-03 00:19:37 +0430"
     },
     "done": true
   },
@@ -92,6 +104,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2017-07-07 12:38:01 +0430"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2017-08-03 00:22:47 +0430"
     },
     "done": true
   },
@@ -325,6 +343,7 @@
       "raw_salmon": "2017-07-12 13:49:17 +0430",
       "rotten_flesh": "2017-07-11 16:40:38 +0430",
       "raw_cod": "2017-07-12 13:41:03 +0430",
+      "cooked_rabbit": "2017-08-03 00:23:20 +0430",
       "carrot": "2017-07-11 12:01:23 +0430"
     },
     "done": false
@@ -338,6 +357,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2017-07-06 18:20:32 +0430"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2017-08-03 00:16:18 +0430"
     },
     "done": true
   },
@@ -779,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2017-08-03 00:16:18 +0430"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2017-07-07 16:25:02 +0430"
@@ -1049,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2017-08-03 00:19:37 +0430"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2017-07-11 17:20:34 +0430"
@@ -1272,6 +1309,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2017-08-03 00:08:44 +0430"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2017-07-07 03:19:42 +0430"
@@ -1371,6 +1414,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2017-07-07 23:44:10 +0430"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2017-08-03 00:16:18 +0430"
     },
     "done": true
   },
